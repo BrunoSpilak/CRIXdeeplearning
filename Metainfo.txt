@@ -12,10 +12,19 @@ Author : SPILAK Bruno
 
 Submitted : 2017/11/30
 
-Datafile : All datafiles used by your code need to be listed here
+Datafile :
+- Data.csv
+- btc_model.hdf5
+- ltc_model.hdf5
+- xmr_model.hdf5
+- xrp_model.hdf5
+- doge_model.hdf5
+- dash_model.hdf5
+- nmc_model.hdf5
+- nxt_model.hdf5
 
-Input : Should contain some new info, which is not written in other metainfo fields
-
-Output : Should contain some new info, which is not written in other metainfo fields
-
-Example : Should contain a list of generated plots and descriptions, which are not written in other metainfo fields
+Output : 
+- RNN models architectures
+- Report on the classification forecasts
+- Report on the portfolio performance
+- Graphs of the portfolio performance
