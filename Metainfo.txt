@@ -1,0 +1,21 @@
+Name of Quantlet : CRIXdeeplearning
+
+Published in : Statistics of Financial Markets 5
+
+Description : 'Build a cryptocurrency portfolio based on price movements forecasts with recurrent neural networks in order to outperform CRIX'
+
+Keywords : neural networks, recurrent neural networks, deep learning, cryptocurrency, CRIX, portfolio, prediction
+
+See also : 
+
+Author : SPILAK Bruno
+
+Submitted : 2017/11/30
+
+Datafile : All datafiles used by your code need to be listed here
+
+Input : Should contain some new info, which is not written in other metainfo fields
+
+Output : Should contain some new info, which is not written in other metainfo fields
+
+Example : Should contain a list of generated plots and descriptions, which are not written in other metainfo fields
