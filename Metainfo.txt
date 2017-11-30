@@ -4,7 +4,7 @@ Published in : Statistics of Financial Markets 5
 
 Description : 'Build a cryptocurrency portfolio based on price movements forecasts with recurrent neural networks in order to outperform CRIX'
 
-Keywords : neural networks, recurrent neural networks, deep learning, cryptocurrency, CRIX, portfolio, prediction
+Keywords : recurrent neural networks, deep learning, cryptocurrency, CRIX, portfolio, prediction, time series, stock price forecast
 
 See also : 
 
