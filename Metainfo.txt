@@ -6,8 +6,6 @@ Description : 'Build a cryptocurrency portfolio based on price movements forecas
 
 Keywords : recurrent neural networks, deep learning, cryptocurrency, CRIX, portfolio, prediction, time series, stock price forecast
 
-See also : 
-
 Author : SPILAK Bruno
 
 Submitted : 2017/11/30
